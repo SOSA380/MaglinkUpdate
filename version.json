@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.3",
-  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.1.3/maglinktv.apk",
-  "notes": "• PayPal en donaciones\n• Avisos del equipo dentro de la app\n• Comentarios y mejoras internas\n• Arreglo de instalación en Smart TV\n• Logos restaurados"
+  "versionCode": 6,
+  "versionName": "1.1.4",
+  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.1.4/maglinktv.apk",
+  "notes": "• Arreglo importante: la app crasheaba al abrir en algunas Smart TV (ya no)\n• PayPal en donaciones\n• Avisos del equipo dentro de la app\n• Mejor instalación en TV"
 }
