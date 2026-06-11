@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.1.4/maglinktv.apk",
-  "notes": "• Arreglo importante: la app crasheaba al abrir en algunas Smart TV (ya no)\n• PayPal en donaciones\n• Avisos del equipo dentro de la app\n• Mejor instalación en TV"
+  "versionCode": 7,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.2.0/maglinktv.apk",
+  "notes": "• Favoritos: marcá canales con ⭐ y aparece la pestaña Favoritos\n• Reproductor: navegación con el control mejorada\n• Selector de audio, calidad y subtítulos (en fuentes compatibles)\n• Centro de notificaciones con la campana\n• Mejoras en las fuentes de los canales"
 }
