@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.1.0/maglinktv.apk",
-  "notes": "• Canales deportivos la18hd (fuente alterna)\n• Agenda deportiva unificada\n• Donaciones por QR\n• Aviso legal DMCA\n• Actualización automática"
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.1.1/maglinktv.apk",
+  "notes": "• Más canales de deportes\n• Agenda deportiva\n• Logos de los canales restaurados\n• Donaciones por QR\n• Aviso legal\n• Buscar actualización desde Ajustes + aviso automático"
 }
