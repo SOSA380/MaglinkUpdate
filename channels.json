@@ -1,0 +1,2601 @@
+[
+ {
+  "id": "a24",
+  "name": "A24",
+  "logo": "assets/logos/a24.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 3458,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QW1lcmljYTI0"
+   }
+  ]
+ },
+ {
+  "id": "america",
+  "name": "AMÉRICA",
+  "logo": "assets/logos/america.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "epgId": 2631,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QW1lcmljYVRW"
+   }
+  ]
+ },
+ {
+  "id": "america-sports",
+  "name": "AMÉRICA SPORTS",
+  "logo": "assets/logos/america-sports.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QW1lcmljYV9TcG9ydHM="
+   }
+  ]
+ },
+ {
+  "id": "argentinisima",
+  "name": "Argentinisima",
+  "logo": "assets/logos/argentinisima.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "epgId": 57,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QXJnZW50aW5pc2ltYQ"
+   }
+  ]
+ },
+ {
+  "id": "baby-tv",
+  "name": "BABY TV",
+  "logo": "assets/logos/baby-tv.png",
+  "country": "Argentina",
+  "category": "Infantiles",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QmFieVRW"
+   }
+  ]
+ },
+ {
+  "id": "bravo-tv",
+  "name": "Bravo TV",
+  "logo": "assets/logos/bravo-tv.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QnJhdm9UVg=="
+   }
+  ]
+ },
+ {
+  "id": "c5n",
+  "name": "C5N",
+  "logo": "assets/logos/c5n.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 2429,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QzVO"
+   }
+  ]
+ },
+ {
+  "id": "canal-10-cordoba",
+  "name": "Canal 10 Cordoba",
+  "logo": "assets/logos/canal-10-cordoba.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfOF9DQkE"
+   }
+  ]
+ },
+ {
+  "id": "canal-10-junin",
+  "name": "Canal 10 Junín",
+  "logo": "assets/logos/canal-10-junin.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfMTBfSnVuaW4="
+   }
+  ]
+ },
+ {
+  "id": "canal-10-mar-del-plata",
+  "name": "Canal 10 Mar del Plata",
+  "logo": "assets/logos/canal-10-mar-del-plata.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfMTBfTURR"
+   }
+  ]
+ },
+ {
+  "id": "canal-26",
+  "name": "CANAL 26",
+  "logo": "assets/logos/canal-26.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 3,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "MjZfVFZfSEQ"
+   }
+  ]
+ },
+ {
+  "id": "canal-a",
+  "name": "CANAL Á",
+  "logo": "assets/logos/canal-a.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "epgId": 58,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfYQ=="
+   }
+  ]
+ },
+ {
+  "id": "canal-de-la-ciudad",
+  "name": "Canal de la Ciudad",
+  "logo": "assets/logos/canal-de-la-ciudad.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfZGVfbGFfY2l1ZGFk"
+   }
+  ]
+ },
+ {
+  "id": "canal-doce",
+  "name": "CANAL DOCE",
+  "logo": "assets/logos/canal-doce.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfMTJfQ0JB"
+   }
+  ]
+ },
+ {
+  "id": "canal-nueve",
+  "name": "CANAL NUEVE",
+  "logo": "assets/logos/canal-nueve.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "epgId": 2808,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWw5"
+   }
+  ]
+ },
+ {
+  "id": "canal-rural",
+  "name": "Canal Rural",
+  "logo": "assets/logos/canal-rural.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 11,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfUnVyYWw="
+   }
+  ]
+ },
+ {
+  "id": "cine-ar",
+  "name": "Cine AR",
+  "logo": "assets/logos/cine-ar.png",
+  "country": "Argentina",
+  "category": "Películas y series",
+  "epgId": 1605,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SU5DQUFfVHY="
+   }
+  ]
+ },
+ {
+  "id": "cinecanal",
+  "name": "Cinecanal",
+  "logo": "assets/logos/cinecanal.png",
+  "country": "Argentina",
+  "category": "Películas y series",
+  "epgId": 3445,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2luZWNhbmFsSEQ="
+   }
+  ]
+ },
+ {
+  "id": "ciudad-magazine",
+  "name": "Ciudad Magazine",
+  "logo": "assets/logos/ciudad-magazine.png",
+  "country": "Argentina",
+  "category": "Películas y series",
+  "epgId": 26,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "TWFnYXppbmU="
+   }
+  ]
+ },
+ {
+  "id": "cm",
+  "name": "CM",
+  "logo": "assets/logos/cm.png",
+  "country": "Argentina",
+  "category": "Musicales",
+  "epgId": 5806,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q00="
+   }
+  ]
+ },
+ {
+  "id": "cronica",
+  "name": "CRÓNICA",
+  "logo": "assets/logos/cronica.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 3986,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q3JvbmljYVRW"
+   }
+  ]
+ },
+ {
+  "id": "deportv",
+  "name": "DeporTV",
+  "logo": "assets/logos/deportv.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 2195,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RGVwb3JUVkhE"
+   }
+  ]
+ },
+ {
+  "id": "diputados-tv",
+  "name": "Diputados TV",
+  "logo": "assets/logos/diputados-tv.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 4320,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RGlwdXRhZG9zX1RW"
+   }
+  ]
+ },
+ {
+  "id": "el-gourmet",
+  "name": "El Gourmet",
+  "logo": "assets/logos/el-gourmet.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "epgId": 3244,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "R291cm1ldA=="
+   }
+  ]
+ },
+ {
+  "id": "el-trece",
+  "name": "EL TRECE",
+  "logo": "assets/logos/el-trece.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "epgId": 1341,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QXJ0ZWFySEQ"
+   }
+  ]
+ },
+ {
+  "id": "el-tres",
+  "name": "El Tres",
+  "logo": "assets/logos/el-tres.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfM19Sb3Nhcmlv"
+   }
+  ]
+ },
+ {
+  "id": "encuentro",
+  "name": "Encuentro",
+  "logo": "assets/logos/encuentro.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "epgId": 477,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RW5jdWVudHJv"
+   }
+  ]
+ },
+ {
+  "id": "espn",
+  "name": "ESPN",
+  "logo": "assets/logos/espn.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 3189,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RVNQTjJIRA"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espnmx"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn_usa"
+   }
+  ]
+ },
+ {
+  "id": "espn-2",
+  "name": "ESPN 2",
+  "logo": "assets/logos/espn-2.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 3429,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RVNQTjJfQXJn"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn2"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn2mx"
+   }
+  ]
+ },
+ {
+  "id": "espn-3",
+  "name": "ESPN 3",
+  "logo": "assets/logos/espn-3.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 4972,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RVNQTjM"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn3"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn3mx"
+   }
+  ]
+ },
+ {
+  "id": "espn-4",
+  "name": "ESPN 4",
+  "logo": "assets/logos/espn-4.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 1132,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RVNQTkhE"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn4"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn4mx"
+   }
+  ]
+ },
+ {
+  "id": "espn-5",
+  "name": "ESPN 5",
+  "logo": "assets/logos/espn-5.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RVNQTjQ="
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn5"
+   }
+  ]
+ },
+ {
+  "id": "espn-6",
+  "name": "ESPN 6",
+  "logo": "assets/logos/espn-6.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Rm94U3BvcnRzM19VWQ=="
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn6"
+   }
+  ]
+ },
+ {
+  "id": "espn-7",
+  "name": "ESPN 7",
+  "logo": "assets/logos/espn-7.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Rm94U3BvcnRzMl9VWQ=="
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espn7"
+   }
+  ]
+ },
+ {
+  "id": "espn-premium",
+  "name": "ESPN Premium",
+  "logo": "assets/logos/espn-premium.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 3985,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Rm94X1Nwb3J0c19QcmVtaXVuX0hE"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espnpremium"
+   }
+  ]
+ },
+ {
+  "id": "europa-europa",
+  "name": "Europa Europa",
+  "logo": "assets/logos/europa-europa.png",
+  "country": "Argentina",
+  "category": "Películas y series",
+  "epgId": 184,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RXVyb3BhX0V1cm9wYQ"
+   }
+  ]
+ },
+ {
+  "id": "film-arts",
+  "name": "Film Arts",
+  "logo": "assets/logos/film-arts.png",
+  "country": "Argentina",
+  "category": "Películas y series",
+  "epgId": 63,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RmlsbV9BcnRz"
+   }
+  ]
+ },
+ {
+  "id": "fox-sports",
+  "name": "FOX SPORTS",
+  "logo": "assets/logos/fox-sports.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 979,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Rm94U3BvcnRz"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=foxsports"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=foxsportsmx"
+   }
+  ]
+ },
+ {
+  "id": "fox-sports-2",
+  "name": "FOX SPORTS 2",
+  "logo": "assets/logos/fox-sports-2.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 2785,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Rm94U3BvcnRzMkhE"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=foxsports2"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=foxsports2mx"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=foxsports2_usa"
+   }
+  ]
+ },
+ {
+  "id": "fox-sports-3",
+  "name": "FOX SPORTS 3",
+  "logo": "assets/logos/fox-sports-3.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 2366,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Rm94U3BvcnRzM0hE"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=foxsports3"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=foxsports3mx"
+   }
+  ]
+ },
+ {
+  "id": "garage-tv",
+  "name": "Garage TV",
+  "logo": "assets/logos/garage-tv.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 358,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RWxfR2FyYWdl"
+   }
+  ]
+ },
+ {
+  "id": "ip-noticias",
+  "name": "IP Noticias",
+  "logo": "assets/logos/ip-noticias.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 6202,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E="
+   }
+  ]
+ },
+ {
+  "id": "ln",
+  "name": "LN+",
+  "logo": "assets/logos/ln.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 3916,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "TGFfTmFjaW9u"
+   }
+  ]
+ },
+ {
+  "id": "metro",
+  "name": "Metro",
+  "logo": "assets/logos/metro.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 27,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "TWV0cm8"
+   }
+  ]
+ },
+ {
+  "id": "nettv",
+  "name": "NETTV",
+  "logo": "assets/logos/nettv.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "epgId": 4684,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "TmV0X1RW"
+   }
+  ]
+ },
+ {
+  "id": "paka-paka",
+  "name": "PAKA PAKA",
+  "logo": "assets/logos/paka-paka.png",
+  "country": "Argentina",
+  "category": "Infantiles",
+  "epgId": 1492,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "UEFLQV9QQUtB"
+   }
+  ]
+ },
+ {
+  "id": "quiero",
+  "name": "Quiero",
+  "logo": "assets/logos/quiero.png",
+  "country": "Argentina",
+  "category": "Musicales",
+  "epgId": 779,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "UXVpZXJvX0hE"
+   }
+  ]
+ },
+ {
+  "id": "space",
+  "name": "Space",
+  "logo": "assets/logos/space.png",
+  "country": "Argentina",
+  "category": "Películas y series",
+  "epgId": 4535,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "U3BhY2U="
+   }
+  ]
+ },
+ {
+  "id": "star-channel",
+  "name": "Star Channel",
+  "logo": "assets/logos/star-channel.png",
+  "country": "Argentina",
+  "category": "Películas y series",
+  "epgId": 879,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Rk9YSEQ="
+   }
+  ]
+ },
+ {
+  "id": "tele-junin",
+  "name": "Tele Junín",
+  "logo": "assets/logos/tele-junin.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VGVsZUp1bmlu"
+   }
+  ]
+ },
+ {
+  "id": "telefe",
+  "name": "TELEFE",
+  "logo": "assets/logos/telefe.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "epgId": 2354,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VGVsZWZlSEQ="
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=telefe"
+   }
+  ]
+ },
+ {
+  "id": "telefe-rosario",
+  "name": "Telefe Rosario",
+  "logo": "assets/logos/telefe-rosario.png",
+  "country": "Argentina",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfNV9Sb3Nhcmlv"
+   }
+  ]
+ },
+ {
+  "id": "telemax",
+  "name": "Telemax",
+  "logo": "assets/logos/telemax.png",
+  "country": "Argentina",
+  "category": "Documentales",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VGVsZW1heA"
+   }
+  ]
+ },
+ {
+  "id": "tn",
+  "name": "TN",
+  "logo": "assets/logos/tn.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 1847,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VG9kb05vdGljaWFz"
+   }
+  ]
+ },
+ {
+  "id": "tnt-sports",
+  "name": "TNT Sports",
+  "logo": "assets/logos/tnt-sports.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 3984,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VE5UX1Nwb3J0c19IRA"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tntsports"
+   }
+  ]
+ },
+ {
+  "id": "tv-publica",
+  "name": "TV PÚBLICA",
+  "logo": "assets/logos/tv-publica.png",
+  "country": "Argentina",
+  "category": "Noticias",
+  "epgId": 1569,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWw3"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tvpublica"
+   }
+  ]
+ },
+ {
+  "id": "tyc-sports",
+  "name": "TyC Sports",
+  "logo": "assets/logos/tyc-sports.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "epgId": 2355,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VHlDU3BvcnQ"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tycsports"
+   }
+  ]
+ },
+ {
+  "id": "tyc-sports-internacional",
+  "name": "TyC Sports Internacional",
+  "logo": "assets/logos/tyc-sports-internacional.png",
+  "country": "Argentina",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VHlDX0ludGVybmFjaW9uYWw="
+   }
+  ]
+ },
+ {
+  "id": "volver",
+  "name": "VOLVER",
+  "logo": "assets/logos/volver.png",
+  "country": "Argentina",
+  "category": "Películas y series",
+  "epgId": 45,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Vm9sdmVy"
+   }
+  ]
+ },
+ {
+  "id": "vorterix",
+  "name": "Vorterix",
+  "logo": "assets/logos/vorterix.png",
+  "country": "Argentina",
+  "category": "Musicales",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Vm9ydGVyaXg="
+   }
+  ]
+ },
+ {
+  "id": "eurochannel",
+  "name": "Eurochannel",
+  "logo": "assets/logos/eurochannel.png",
+  "country": "Brasil",
+  "category": "Películas y series",
+  "epgId": 337,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RXVyb2NoYW5uZWw="
+   }
+  ]
+ },
+ {
+  "id": "tv-chile",
+  "name": "TV Chile",
+  "logo": "assets/logos/tv-chile.png",
+  "country": "Chile",
+  "category": "Variedad",
+  "epgId": 39,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VHZfQ2hpbGU="
+   }
+  ]
+ },
+ {
+  "id": "a3cine",
+  "name": "A3Cine",
+  "logo": "assets/logos/a3cine.png",
+  "country": "España",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QTNfQ2luZQ=="
+   }
+  ]
+ },
+ {
+  "id": "a3series",
+  "name": "A3Series",
+  "logo": "assets/logos/a3series.png",
+  "country": "España",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QTNfU2VyaWVz"
+   }
+  ]
+ },
+ {
+  "id": "antena-3",
+  "name": "Antena 3",
+  "logo": "assets/logos/antena-3.png",
+  "country": "España",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QW50ZW5hXzM="
+   }
+  ]
+ },
+ {
+  "id": "hola-tv",
+  "name": "Hola TV",
+  "logo": "assets/logos/hola-tv.png",
+  "country": "España",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SG9sYV9UVg=="
+   }
+  ]
+ },
+ {
+  "id": "tve-internacional",
+  "name": "TVE Internacional",
+  "logo": "assets/logos/tve-internacional.png",
+  "country": "España",
+  "category": "Noticias",
+  "epgId": 3181,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VFZfRXNwYW5h"
+   }
+  ]
+ },
+ {
+  "id": "a-e",
+  "name": "A&E",
+  "logo": "assets/logos/a-e.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 1584,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QUVIRA=="
+   }
+  ]
+ },
+ {
+  "id": "adult-swim",
+  "name": "Adult Swim",
+  "logo": "assets/logos/adult-swim.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 8382,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QWR1bHRfU3dpbQ=="
+   }
+  ]
+ },
+ {
+  "id": "amc",
+  "name": "AMC",
+  "logo": "assets/logos/amc.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 1250,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QU1D"
+   }
+  ]
+ },
+ {
+  "id": "amc-series",
+  "name": "AMC Series",
+  "logo": "assets/logos/amc-series.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QU1DX1Nlcmllcw=="
+   }
+  ]
+ },
+ {
+  "id": "animal-planet",
+  "name": "Animal Planet",
+  "logo": "assets/logos/animal-planet.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 4605,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QW5pbWFsUGxhbmV0"
+   }
+  ]
+ },
+ {
+  "id": "axn",
+  "name": "AXN",
+  "logo": "assets/logos/axn.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 1862,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QVhOSEQ="
+   }
+  ]
+ },
+ {
+  "id": "cartoon-network",
+  "name": "Cartoon Network",
+  "logo": "assets/logos/cartoon-network.png",
+  "country": "Estados Unidos",
+  "category": "Infantiles",
+  "epgId": 2845,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FydG9vbk5ldHdvcms="
+   }
+  ]
+ },
+ {
+  "id": "cartoonito",
+  "name": "Cartoonito",
+  "logo": "assets/logos/cartoonito.png",
+  "country": "Estados Unidos",
+  "category": "Infantiles",
+  "epgId": 453,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Qm9vbWVyYW5n"
+   }
+  ]
+ },
+ {
+  "id": "cinemax",
+  "name": "Cinemax",
+  "logo": "assets/logos/cinemax.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 3142,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2luZW1heA=="
+   }
+  ]
+ },
+ {
+  "id": "cnn",
+  "name": "CNN",
+  "logo": "assets/logos/cnn.png",
+  "country": "Estados Unidos",
+  "category": "Noticias",
+  "epgId": 62,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q05OX2VuX0VzcGFub2w="
+   }
+  ]
+ },
+ {
+  "id": "cnn-internacional",
+  "name": "CNN Internacional",
+  "logo": "assets/logos/cnn-internacional.png",
+  "country": "Estados Unidos",
+  "category": "Noticias",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q05OX0ludGVybmFjaW9uYWw="
+   }
+  ]
+ },
+ {
+  "id": "comedy-central",
+  "name": "Comedy Central",
+  "logo": "assets/logos/comedy-central.png",
+  "country": "Estados Unidos",
+  "category": "Variedad",
+  "epgId": 3953,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q29tZWR5Q2VudHJhbA"
+   }
+  ]
+ },
+ {
+  "id": "discovery-channel",
+  "name": "Discovery Channel",
+  "logo": "assets/logos/discovery-channel.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 3066,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RGlzY292ZXJ5SEQ="
+   }
+  ]
+ },
+ {
+  "id": "discovery-h-h",
+  "name": "Discovery H&H",
+  "logo": "assets/logos/discovery-h-h.png",
+  "country": "Estados Unidos",
+  "category": "Reality",
+  "epgId": 340,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RGlzY292ZXJ5SG9tZUhlYWx0aEhE"
+   }
+  ]
+ },
+ {
+  "id": "discovery-id",
+  "name": "Discovery ID",
+  "logo": "assets/logos/discovery-id.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 111,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SUQ="
+   }
+  ]
+ },
+ {
+  "id": "discovery-kids",
+  "name": "Discovery Kids",
+  "logo": "assets/logos/discovery-kids.png",
+  "country": "Estados Unidos",
+  "category": "Infantiles",
+  "epgId": 3531,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RGlzY292ZXJ5X0tpZHM="
+   }
+  ]
+ },
+ {
+  "id": "discovery-science",
+  "name": "Discovery Science",
+  "logo": "assets/logos/discovery-science.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 4704,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RGlzY292ZXJ5X1NjaWVuY2U="
+   }
+  ]
+ },
+ {
+  "id": "discovery-theater",
+  "name": "Discovery Theater",
+  "logo": "assets/logos/discovery-theater.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 1181,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VGhlYXRlcl9IRA=="
+   }
+  ]
+ },
+ {
+  "id": "discovery-tlc",
+  "name": "Discovery TLC",
+  "logo": "assets/logos/discovery-tlc.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 4909,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VExD"
+   }
+  ]
+ },
+ {
+  "id": "discovery-turbo",
+  "name": "Discovery Turbo",
+  "logo": "assets/logos/discovery-turbo.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 3223,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RGlzY292ZXJ5VHVyYm8="
+   }
+  ]
+ },
+ {
+  "id": "discovery-world",
+  "name": "Discovery World",
+  "logo": "assets/logos/discovery-world.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 1389,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RGlzY292ZXJ5X1dvcmxkX0hE"
+   }
+  ]
+ },
+ {
+  "id": "disney-channel",
+  "name": "Disney Channel",
+  "logo": "assets/logos/disney-channel.png",
+  "country": "Estados Unidos",
+  "category": "Infantiles",
+  "epgId": 4367,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RGlzbmV5Q2hhbm5lbEhE"
+   }
+  ]
+ },
+ {
+  "id": "disney-jr",
+  "name": "Disney JR",
+  "logo": "assets/logos/disney-jr.png",
+  "country": "Estados Unidos",
+  "category": "Infantiles",
+  "epgId": 4428,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RGlzbmV5SnI="
+   }
+  ]
+ },
+ {
+  "id": "dreamworks",
+  "name": "Dreamworks",
+  "logo": "assets/logos/dreamworks.png",
+  "country": "Estados Unidos",
+  "category": "Infantiles",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RHJlYW13b3Jrcw=="
+   }
+  ]
+ },
+ {
+  "id": "e-entertaiment",
+  "name": "E Entertaiment",
+  "logo": "assets/logos/e-entertaiment.png",
+  "country": "Estados Unidos",
+  "category": "Variedad",
+  "epgId": 490,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24="
+   }
+  ]
+ },
+ {
+  "id": "food-network",
+  "name": "FOOD Network",
+  "logo": "assets/logos/food-network.png",
+  "country": "Estados Unidos",
+  "category": "Reality",
+  "epgId": 3450,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Rm9vZF9OZXR3b3Jr"
+   }
+  ]
+ },
+ {
+  "id": "fox-news",
+  "name": "Fox News",
+  "logo": "assets/logos/fox-news.png",
+  "country": "Estados Unidos",
+  "category": "Noticias",
+  "epgId": 1020,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Rm94X05ld3M="
+   }
+  ]
+ },
+ {
+  "id": "fxhd",
+  "name": "FXHD",
+  "logo": "assets/logos/fxhd.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 2040,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RlhIRA=="
+   }
+  ]
+ },
+ {
+  "id": "golf-channel",
+  "name": "Golf Channel",
+  "logo": "assets/logos/golf-channel.png",
+  "country": "Estados Unidos",
+  "category": "Deportes",
+  "epgId": 2682,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "R29sZl9DaGFubmVs"
+   }
+  ]
+ },
+ {
+  "id": "hbo",
+  "name": "HBO",
+  "logo": "assets/logos/hbo.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 875,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SEJPSEQ="
+   }
+  ]
+ },
+ {
+  "id": "hbo-2",
+  "name": "HBO 2",
+  "logo": "assets/logos/hbo-2.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 2684,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SEJPXzI="
+   }
+  ]
+ },
+ {
+  "id": "hbo-family",
+  "name": "HBO Family",
+  "logo": "assets/logos/hbo-family.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 2687,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SEJPX0ZhbWlseQ=="
+   }
+  ]
+ },
+ {
+  "id": "hbo-mundi",
+  "name": "HBO Mundi",
+  "logo": "assets/logos/hbo-mundi.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 1448,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SEJPX011bmRp"
+   }
+  ]
+ },
+ {
+  "id": "hbo-plus",
+  "name": "HBO Plus",
+  "logo": "assets/logos/hbo-plus.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 2686,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SEJPX1BsdXM="
+   }
+  ]
+ },
+ {
+  "id": "hbo-pop",
+  "name": "HBO POP",
+  "logo": "assets/logos/hbo-pop.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 3927,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SEJPX1BPUA=="
+   }
+  ]
+ },
+ {
+  "id": "hbo-signature",
+  "name": "HBO Signature",
+  "logo": "assets/logos/hbo-signature.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 2065,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SEJPX1NpZ25hdHVyZQ=="
+   }
+  ]
+ },
+ {
+  "id": "hbo-xtreme",
+  "name": "HBO Xtreme",
+  "logo": "assets/logos/hbo-xtreme.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 2688,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SEJPX0V4dHJlbWU="
+   }
+  ]
+ },
+ {
+  "id": "hgtv",
+  "name": "HGTV",
+  "logo": "assets/logos/hgtv.png",
+  "country": "Estados Unidos",
+  "category": "Variedad",
+  "epgId": 1531,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SG9tZV9hbmRfR2FyZGVu"
+   }
+  ]
+ },
+ {
+  "id": "history",
+  "name": "History",
+  "logo": "assets/logos/history.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 1499,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SGlzdG9yeUhE"
+   }
+  ]
+ },
+ {
+  "id": "history-2",
+  "name": "History 2",
+  "logo": "assets/logos/history-2.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 2823,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SGlzdG9yeV8y"
+   }
+  ]
+ },
+ {
+  "id": "htv",
+  "name": "HTV",
+  "logo": "assets/logos/htv.png",
+  "country": "Estados Unidos",
+  "category": "Musicales",
+  "epgId": 115,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "SFRW"
+   }
+  ]
+ },
+ {
+  "id": "lifetime",
+  "name": "Lifetime",
+  "logo": "assets/logos/lifetime.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 3573,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "TGlmZXRpbWU="
+   }
+  ]
+ },
+ {
+  "id": "mtv",
+  "name": "MTV",
+  "logo": "assets/logos/mtv.png",
+  "country": "Estados Unidos",
+  "category": "Musicales",
+  "epgId": 25,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "TVRWX0hE"
+   }
+  ]
+ },
+ {
+  "id": "national-geographic",
+  "name": "National Geographic",
+  "logo": "assets/logos/national-geographic.png",
+  "country": "Estados Unidos",
+  "category": "Documentales",
+  "epgId": 2710,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "TmF0R2VvSEQ="
+   }
+  ]
+ },
+ {
+  "id": "nba-tv",
+  "name": "NBA TV",
+  "logo": "assets/logos/nba-tv.png",
+  "country": "Estados Unidos",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "TkJBX1RW"
+   }
+  ]
+ },
+ {
+  "id": "nick",
+  "name": "NICK",
+  "logo": "assets/logos/nick.png",
+  "country": "Estados Unidos",
+  "category": "Infantiles",
+  "epgId": 3952,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Tmlja2Vsb2Rlb24="
+   }
+  ]
+ },
+ {
+  "id": "nick-jr",
+  "name": "NICK JR",
+  "logo": "assets/logos/nick-jr.png",
+  "country": "Estados Unidos",
+  "category": "Infantiles",
+  "epgId": 5184,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Tmlja19Kcg=="
+   }
+  ]
+ },
+ {
+  "id": "paramount-network",
+  "name": "Paramount Network",
+  "logo": "assets/logos/paramount-network.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "UGFyYW1vdW50"
+   }
+  ]
+ },
+ {
+  "id": "sony-channel",
+  "name": "Sony Channel",
+  "logo": "assets/logos/sony-channel.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 1579,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "U29ueUhE"
+   }
+  ]
+ },
+ {
+  "id": "studio-universal",
+  "name": "Studio Universal",
+  "logo": "assets/logos/studio-universal.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "U3R1ZGlvX1VuaXZlcnNhbA=="
+   }
+  ]
+ },
+ {
+  "id": "tcm",
+  "name": "TCM",
+  "logo": "assets/logos/tcm.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 328,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VENN"
+   }
+  ]
+ },
+ {
+  "id": "tnt-hd",
+  "name": "TNT HD",
+  "logo": "assets/logos/tnt-hd.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 4230,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VE5UX0hEX0FyZw=="
+   }
+  ]
+ },
+ {
+  "id": "tnt-novelas",
+  "name": "TNT Novelas",
+  "logo": "assets/logos/tnt-novelas.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 8200,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VEJT"
+   }
+  ]
+ },
+ {
+  "id": "tnt-series",
+  "name": "TNT Series",
+  "logo": "assets/logos/tnt-series.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 3128,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VE5UU2VyaWVz"
+   }
+  ]
+ },
+ {
+  "id": "universal-cinema",
+  "name": "Universal Cinema",
+  "logo": "assets/logos/universal-cinema.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VW5pdmVyc2FsX0NpbmVtYQ=="
+   }
+  ]
+ },
+ {
+  "id": "universal-comedy",
+  "name": "Universal Comedy",
+  "logo": "assets/logos/universal-comedy.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VW5pdmVyc2FsX0NvbWVkeQ=="
+   }
+  ]
+ },
+ {
+  "id": "universal-crime",
+  "name": "Universal Crime",
+  "logo": "assets/logos/universal-crime.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "dW5pdmVyc2FsX0NyaW1l"
+   }
+  ]
+ },
+ {
+  "id": "universal-premiere",
+  "name": "Universal Premiere",
+  "logo": "assets/logos/universal-premiere.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VW5pdmVyc2FsX1ByZW1pZXJl"
+   }
+  ]
+ },
+ {
+  "id": "universal-reality",
+  "name": "Universal Reality",
+  "logo": "assets/logos/universal-reality.png",
+  "country": "Estados Unidos",
+  "category": "Reality",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VW5pdmVyc2FsX1JlYWxpdHk="
+   }
+  ]
+ },
+ {
+  "id": "universal-tv",
+  "name": "Universal TV",
+  "logo": "assets/logos/universal-tv.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VW5pdmVyc2FsX0NoYW5uZWxfSEQ="
+   }
+  ]
+ },
+ {
+  "id": "usa-network",
+  "name": "USA NETWORK",
+  "logo": "assets/logos/usa-network.png",
+  "country": "Estados Unidos",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VVNBX05ldHdvcms="
+   }
+  ]
+ },
+ {
+  "id": "warner",
+  "name": "Warner",
+  "logo": "assets/logos/warner.png",
+  "country": "Estados Unidos",
+  "category": "Películas y series",
+  "epgId": 3787,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "V2FybmVySEQ="
+   }
+  ]
+ },
+ {
+  "id": "euronews",
+  "name": "Euronews",
+  "logo": "assets/logos/euronews.png",
+  "country": "Francia",
+  "category": "Noticias",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "RXVyb25ld3M="
+   }
+  ]
+ },
+ {
+  "id": "tv5-monde",
+  "name": "TV5 MONDE",
+  "logo": "assets/logos/tv5-monde.png",
+  "country": "Francia",
+  "category": "Noticias",
+  "epgId": 38,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VFY1X01vbmRl"
+   }
+  ]
+ },
+ {
+  "id": "rai",
+  "name": "RAI",
+  "logo": "assets/logos/rai.png",
+  "country": "Italia",
+  "category": "Noticias",
+  "epgId": 4625,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "UkFJ"
+   }
+  ]
+ },
+ {
+  "id": "golden",
+  "name": "GOLDEN",
+  "logo": "assets/logos/golden.png",
+  "country": "México",
+  "category": "Películas y series",
+  "epgId": 1500,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "R29sZGVu"
+   }
+  ]
+ },
+ {
+  "id": "las-estrellas",
+  "name": "Las Estrellas",
+  "logo": "assets/logos/las-estrellas.png",
+  "country": "México",
+  "category": "Variedad",
+  "epgId": 2235,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw=="
+   }
+  ]
+ },
+ {
+  "id": "telemundo",
+  "name": "Telemundo",
+  "logo": "assets/logos/telemundo.png",
+  "country": "México",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VGVsZW11bmRvX0hE"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=telemundo"
+   }
+  ]
+ },
+ {
+  "id": "sun-channel",
+  "name": "SUN Channel",
+  "logo": "assets/logos/sun-channel.png",
+  "country": "Panamá",
+  "category": "Variedad",
+  "epgId": 2257,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "U3VuX0NoYW5uZWw="
+   }
+  ]
+ },
+ {
+  "id": "5-dias-py",
+  "name": "5 DÍAS PY",
+  "logo": "assets/logos/5-dias-py.png",
+  "country": "Paraguay",
+  "category": "Noticias",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "NV9EaWFzX1BZ"
+   }
+  ]
+ },
+ {
+  "id": "canal-pro",
+  "name": "Canal PRO",
+  "logo": "assets/logos/canal-pro.png",
+  "country": "Paraguay",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWxfUFJP"
+   }
+  ]
+ },
+ {
+  "id": "latele",
+  "name": "Latele",
+  "logo": "assets/logos/latele.png",
+  "country": "Paraguay",
+  "category": "Películas y series",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "TEFfVEVMRV9DNA=="
+   }
+  ]
+ },
+ {
+  "id": "pytv",
+  "name": "PYTV",
+  "logo": "assets/logos/pytv.png",
+  "country": "Paraguay",
+  "category": "Variedad",
+  "epgId": 1961,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "UGFyYWd1YXlfVFY="
+   }
+  ]
+ },
+ {
+  "id": "trece-py",
+  "name": "Trece PY",
+  "logo": "assets/logos/trece-py.png",
+  "country": "Paraguay",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "UlBDX0M0"
+   }
+  ]
+ },
+ {
+  "id": "unicanal",
+  "name": "Unicanal",
+  "logo": "assets/logos/unicanal.png",
+  "country": "Paraguay",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VU5JQ0FOQUxfQzQ="
+   }
+  ]
+ },
+ {
+  "id": "bbc-news",
+  "name": "BBC News",
+  "logo": "assets/logos/bbc-news.png",
+  "country": "Reino Unido",
+  "category": "Noticias",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "QkJDX1dvcmxkX05ld3M"
+   }
+  ]
+ },
+ {
+  "id": "canal-10-uruguayo",
+  "name": "Canal 10 Uruguayo",
+  "logo": "assets/logos/canal-10-uruguayo.png",
+  "country": "Uruguay",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWwxMF9VUlU="
+   }
+  ]
+ },
+ {
+  "id": "canal-4-uruguay",
+  "name": "Canal 4 Uruguay",
+  "logo": "assets/logos/canal-4-uruguay.png",
+  "country": "Uruguay",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWw0X1VSVQ=="
+   }
+  ]
+ },
+ {
+  "id": "teledoce",
+  "name": "Teledoce",
+  "logo": "assets/logos/teledoce.png",
+  "country": "Uruguay",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "Q2FuYWwxMlVSVQ=="
+   }
+  ]
+ },
+ {
+  "id": "tv-ciudad",
+  "name": "TV Ciudad",
+  "logo": "assets/logos/tv-ciudad.png",
+  "country": "Uruguay",
+  "category": "Variedad",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VGV2ZV9DaXVkYWQ="
+   }
+  ]
+ },
+ {
+  "id": "vtv",
+  "name": "VTV",
+  "logo": "assets/logos/vtv.png",
+  "country": "Uruguay",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VlRWX0hE"
+   }
+  ]
+ },
+ {
+  "id": "vtv-plus",
+  "name": "VTV Plus",
+  "logo": "assets/logos/vtv-plus.png",
+  "country": "Uruguay",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VlRWX1BsdXNfSEQ"
+   },
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=vtvplus"
+   }
+  ]
+ },
+ {
+  "id": "telesur",
+  "name": "TeleSur",
+  "logo": "assets/logos/telesur.png",
+  "country": "Venezuela",
+  "category": "Noticias",
+  "epgId": 388,
+  "sources": [
+   {
+    "type": "cvatt",
+    "id": "VGVsZXN1cg=="
+   }
+  ]
+ },
+ {
+  "id": "la18hd-dsports",
+  "name": "DSports",
+  "logo": "",
+  "country": "LATINOAMERICA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=dsports"
+   },
+   {
+    "type": "hls",
+    "url": "http://190.108.83.69:8000/play/a05w/index.m3u8"
+   },
+   {
+    "type": "hls",
+    "url": "http://148.222.230.201:8000/play/a0pk/index.m3u8"
+   },
+   {
+    "type": "hls",
+    "url": "http://148.222.230.197:8000/play/a0mm/index.m3u8"
+   },
+   {
+    "type": "hls",
+    "url": "http://181.64.27.65:8000/play/a0dq/index.m3u8"
+   },
+   {
+    "type": "hls",
+    "url": "http://38.187.7.252:8000/play/a03d/index.m3u8"
+   },
+   {
+    "type": "hls",
+    "url": "http://190.223.48.46:8000/play/a028/index.m3u8"
+   },
+   {
+    "type": "hls",
+    "url": "http://191.97.59.33:8000/play/a09t/index.m3u8"
+   },
+   {
+    "type": "hls",
+    "url": "http://190.117.20.37:8000/play/a08d/index.m3u"
+   },
+   {
+    "type": "hls",
+    "url": "http://177.53.152.117:8000/play/a07d/index.m3u8"
+   },
+   {
+    "type": "hls",
+    "url": "http://8.243.126.131:8000/play/a05a/index.m3u8"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-dsports2",
+  "name": "DSports 2",
+  "logo": "",
+  "country": "LATINOAMERICA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=dsports2"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-dsportsplus",
+  "name": "DSports Plus",
+  "logo": "",
+  "country": "LATINOAMERICA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=dsportsplus"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-ecdf_ligapro",
+  "name": "ECDF LigaPro (eventos)",
+  "logo": "",
+  "country": "LATINOAMERICA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=ecdf_ligapro"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-liga1max",
+  "name": "Liga1 MAX",
+  "logo": "",
+  "country": "PERÚ",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=liga1max"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-movistar",
+  "name": "Movistar Deportes",
+  "logo": "",
+  "country": "PERÚ",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=movistar"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-winsports2",
+  "name": "Win Sports plus (2)",
+  "logo": "",
+  "country": "COLOMBIA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=winsports2"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-winsports",
+  "name": "Win Sports",
+  "logo": "",
+  "country": "COLOMBIA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=winsports"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-tudn_mx",
+  "name": "TUDN",
+  "logo": "",
+  "country": "MÉXICO",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-canal5",
+  "name": "Canal 5",
+  "logo": "",
+  "country": "MÉXICO",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=canal5"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-tvc_deportes",
+  "name": "TVC Deportes",
+  "logo": "",
+  "country": "MÉXICO",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tvc_deportes"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-sky_sports_laliga",
+  "name": "Sky Sports LaLiga",
+  "logo": "",
+  "country": "MÉXICO",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=sky_sports_laliga"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-foxdeportes",
+  "name": "Fox Deportes",
+  "logo": "",
+  "country": "USA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=foxdeportes"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-espndeportes",
+  "name": "ESPN Deportes",
+  "logo": "",
+  "country": "USA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=espndeportes"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-univision",
+  "name": "Univisión",
+  "logo": "",
+  "country": "USA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=univision"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-foxsports1_usa",
+  "name": "Fox Sports 1",
+  "logo": "",
+  "country": "USA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=foxsports1_usa"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-beinsportes",
+  "name": "BeIN Sports Español",
+  "logo": "",
+  "country": "USA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=beinsportes"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-unimas",
+  "name": "Unimás",
+  "logo": "",
+  "country": "USA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=unimas"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-premiere1",
+  "name": "Premiere 1",
+  "logo": "",
+  "country": "BRASIL",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=premiere1"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-premiere2",
+  "name": "Premiere 2",
+  "logo": "",
+  "country": "BRASIL",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=premiere2"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-premiere3",
+  "name": "Premiere 3",
+  "logo": "",
+  "country": "BRASIL",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=premiere3"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-premiere4",
+  "name": "Premiere 4",
+  "logo": "",
+  "country": "BRASIL",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=premiere4"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-premiere5",
+  "name": "Premiere 5",
+  "logo": "",
+  "country": "BRASIL",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=premiere5"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-premiere6",
+  "name": "Premiere 6",
+  "logo": "",
+  "country": "BRASIL",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=premiere6"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-premiere7",
+  "name": "Premiere 7",
+  "logo": "",
+  "country": "BRASIL",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=premiere7"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-sportv",
+  "name": "Sportv",
+  "logo": "",
+  "country": "BRASIL",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=sportv"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-sportv2",
+  "name": "Sportv 2",
+  "logo": "",
+  "country": "BRASIL",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=sportv2"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-sportv3",
+  "name": "Sportv 3",
+  "logo": "",
+  "country": "BRASIL",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=sportv3"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-dazn1",
+  "name": "DAZN 1",
+  "logo": "",
+  "country": "ESPAÑA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=dazn1"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-ligadecampeones2",
+  "name": "Liga de Campeones 2",
+  "logo": "",
+  "country": "ESPAÑA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=ligadecampeones2"
+   }
+  ]
+ },
+ {
+  "id": "la18hd-laligatvbar",
+  "name": "LaLigaTV BAR",
+  "logo": "",
+  "country": "ESPAÑA",
+  "category": "Deportes",
+  "sources": [
+   {
+    "type": "la18hd",
+    "url": "https://la18hd.com/vivo/canales.php?stream=laligatvbar"
+   }
+  ]
+ }
+]
