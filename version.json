@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.4.0/maglinktv.apk",
-  "notes": "• ¡Ahora el equipo puede responder tus comentarios! Te llega como aviso\n• Notificaciones al instante (avisos y respuestas)\n• Reportá los canales que no funcionan desde el reproductor\n• App más rápida y liviana en Smart TV\n• Instalación de actualizaciones más confiable\n• Más canales y mejoras varias"
+  "versionCode": 10,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.4.1/maglinktv.apk",
+  "notes": "• Modo de imagen en el reproductor: Ajustar / Llenar / Estirar\n  (arregla videos que se veían deformados)\n• Alerta al instante cuando el equipo te responde\n• ¡El equipo puede responder tus comentarios! Te llega como aviso\n• Reportá los canales que no funcionan desde el reproductor\n• App más rápida y liviana en Smart TV\n• Mejoras varias"
 }
