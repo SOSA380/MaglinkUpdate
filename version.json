@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.4.3",
-  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.4.3/maglinktv.apk",
-  "notes": "• Arreglada la navegación con el control remoto en el reproductor:\n  ahora podés moverte entre TODOS los botones con las flechas\n• Mejor reproducción de los canales de deportes\n• Se descartan automáticamente las fuentes que no funcionan"
+  "versionCode": 13,
+  "versionName": "1.4.4",
+  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.4.4/maglinktv.apk",
+  "notes": "• Ahora podés reaccionar 👍 / 👎 a los mensajes del equipo\n• Los avisos del admin llegan al instante, con un resumen\n• Comentar es más simple (un solo paso)\n• Mejor detección de tu dispositivo (celular / tablet / TV)\n• Mejoras internas"
 }
