@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.6",
-  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.4.6/maglinktv.apk",
-  "notes": "• Nueva sección \"Locales\" (canales argentinos) primera\n• Conexión más estable\n• Banner del Mundial FIFA 2026™ ⚽\n• Mejoras internas"
+  "versionCode": 16,
+  "versionName": "1.4.7",
+  "apkUrl": "https://github.com/SOSA380/MaglinkUpdate/releases/download/v1.4.7/maglinktv.apk",
+  "notes": "• Ahora se instala en Smart TV más viejas (Android 5+)\n• Sección \"Locales\" (canales argentinos)\n• Mejoras internas"
 }
