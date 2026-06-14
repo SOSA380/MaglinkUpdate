@@ -1193,20 +1193,6 @@
   ]
  },
  {
-  "id": "discovery-h-h",
-  "name": "Discovery H&H",
-  "logo": "assets/logos/discovery-h-h.png",
-  "country": "Estados Unidos",
-  "category": "Reality",
-  "epgId": 340,
-  "sources": [
-   {
-    "type": "cvatt",
-    "id": "RGlzY292ZXJ5SG9tZUhlYWx0aEhE"
-   }
-  ]
- },
- {
   "id": "discovery-id",
   "name": "Discovery ID",
   "logo": "assets/logos/discovery-id.png",
@@ -2165,46 +2151,6 @@
    {
     "type": "la18hd",
     "url": "https://la18hd.com/vivo/canales.php?stream=dsports"
-   },
-   {
-    "type": "hls",
-    "url": "http://190.108.83.69:8000/play/a05w/index.m3u8"
-   },
-   {
-    "type": "hls",
-    "url": "http://148.222.230.201:8000/play/a0pk/index.m3u8"
-   },
-   {
-    "type": "hls",
-    "url": "http://148.222.230.197:8000/play/a0mm/index.m3u8"
-   },
-   {
-    "type": "hls",
-    "url": "http://181.64.27.65:8000/play/a0dq/index.m3u8"
-   },
-   {
-    "type": "hls",
-    "url": "http://38.187.7.252:8000/play/a03d/index.m3u8"
-   },
-   {
-    "type": "hls",
-    "url": "http://190.223.48.46:8000/play/a028/index.m3u8"
-   },
-   {
-    "type": "hls",
-    "url": "http://191.97.59.33:8000/play/a09t/index.m3u8"
-   },
-   {
-    "type": "hls",
-    "url": "http://190.117.20.37:8000/play/a08d/index.m3u"
-   },
-   {
-    "type": "hls",
-    "url": "http://177.53.152.117:8000/play/a07d/index.m3u8"
-   },
-   {
-    "type": "hls",
-    "url": "http://8.243.126.131:8000/play/a05a/index.m3u8"
    }
   ]
  },
